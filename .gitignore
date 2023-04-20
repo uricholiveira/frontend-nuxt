@@ -113,3 +113,9 @@ typings/
 
 # TernJS port file
 .tern-port
+
+# IDES
+.vscode
+.atom
+.idea
+.fleet
